@@ -12,6 +12,14 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
+
+## 🚀 Currently Working On
+
+- I'm exploring **Next.js** for advanced full-stack development and optimizing performance
+- I'm building a **tourism website** with MERN stack and real-time features
+- I'm learning **ML fundamentals** through Python and exploring AI/ML research projects
+- I'm contributing to **open-source** projects and collaborating with developers
+
 ## 📌 About Me
 - I’m currently learning advanced MERN concepts like authentication, state management, performance optimization, and clean architecture for scalable web apps.   I’m looking to collaborate on real‑world MERN projects, especially dashboards, SaaS tools, and e‑commerce platforms where I can contribute to both frontend and backend.  I’m looking for help with best practices in system design, testing, and DevOps (CI/CD, deployment, monitoring) to ship more reliable production‑ready applications.
 
