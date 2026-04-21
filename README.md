@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nabilnir/nabilnir@main/banner.svg" alt="Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/nabilnir/nabilnir@main/banner(1).svg" alt="Banner" width="100%" />
 </div>
 
 <p align="center">
