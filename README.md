@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner(1).svg" alt="Nabil Mahmud" width="100%" />
+  <img src="/banner.svg" alt="Nabil Mahmud" width="100%" />
 </p>
 
 <p align="center">
