@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Nabil%20Mahmud&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=React%20%26%20Next.js%20Developer&descSize=20&descAlignY=58&textBg=false" width="100%" />
+![Nabil Mahmud](./banner.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=React+%26+Next.js+Frontend+Developer;Building+Scalable+MERN+Applications;TypeScript+%7C+TailwindCSS+%7C+TanStack+Query;Open+to+Remote+Frontend+Roles" alt="Typing SVG" />
