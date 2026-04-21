@@ -26,24 +26,24 @@ React & Next.js Developer specializing in full-stack MERN applications, TypeScri
 
 I work with **Next.js App Router, TypeScript, TailwindCSS, TanStack Query, Node.js, MongoDB, Firebase, and JWT** — each chosen deliberately based on what the project actually needs, not just what's trending.
 
-- 🔭 Currently finishing **PickPackaging** — a B2B marketplace built with Next.js App Router & TypeScript
-- 🌱 Deepening knowledge in **TypeScript patterns, scalable component architecture, and CI/CD workflows**
-- 🤝 Recently collaborated on **Doc-Schedule** — a healthcare SaaS platform with a 5-person team
-- 💼 Open to **remote frontend or full-stack roles**
-- 📫 Reach me at **nirarhan@gmail.com**
+- Currently finishing **PickPackaging** — a B2B marketplace built with Next.js App Router & TypeScript
+- Deepening knowledge in **TypeScript patterns, scalable component architecture, and CI/CD workflows**
+- Recently collaborated on **Doc-Schedule** — a healthcare SaaS platform with a 5-person team
+- Open to **remote frontend or full-stack roles**
+- Reach me at **nirarhan@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-App_Router-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -55,7 +55,7 @@ I work with **Next.js App Router, TypeScript, TailwindCSS, TanStack Query, Node.
   <img src="https://img.shields.io/badge/GSAP-Animations-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-REST_APIs-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -64,13 +64,13 @@ I work with **Next.js App Router, TypeScript, TailwindCSS, TanStack Query, Node.
   <img src="https://img.shields.io/badge/NextAuth-Sessions-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### Database
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### 🔧 Tools & Workflow
+### Tools & Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Codebase-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -84,16 +84,16 @@ I work with **Next.js App Router, TypeScript, TailwindCSS, TanStack Query, Node.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ PickPackaging — B2B Packaging Marketplace
+### PickPackaging — B2B Packaging Marketplace
 > **Next.js App Router · TypeScript · TailwindCSS · TanStack Query · MongoDB · Stripe**
 
 A production-grade B2B marketplace connecting packaging brands with manufacturers across food service, agriculture, and industrial sectors.
 
-- 🔐 Role-based loyalty & partner programme system with JWT and MongoDB
-- 📊 Real-time admin dashboard using Next.js Server Components
-- 🛒 Persistent cart & wishlist with type-safe React Context state management
+- Role-based loyalty & partner programme system with JWT and MongoDB
+- Real-time admin dashboard using Next.js Server Components
+- Persistent cart & wishlist with type-safe React Context state management
 
 [![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
 [![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
@@ -101,14 +101,14 @@ A production-grade B2B marketplace connecting packaging brands with manufacturer
 
 ---
 
-### 🏛️ Civix — Public Infrastructure Issue Reporting System
+### Civix — Public Infrastructure Issue Reporting System
 > **ReactJS · Node.js · MongoDB · TanStack Query · Firebase · JWT · TailwindCSS**
 
 A MERN-based civic platform bridging citizens and local authorities for transparent infrastructure issue resolution.
 
-- 📋 Full CRUD issue reporting with image uploads, location tracking & priority levels
-- 👆 Community-driven upvote system using MongoDB document-level validation
-- 🔒 Modular role-based access control with JWT authentication
+- Full CRUD issue reporting with image uploads, location tracking & priority levels
+- Community-driven upvote system using MongoDB document-level validation
+- Modular role-based access control with JWT authentication
 
 [![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
 [![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
@@ -116,14 +116,14 @@ A MERN-based civic platform bridging citizens and local authorities for transpar
 
 ---
 
-### 🌿 EcoTrack — Environmental Monitoring Platform
+### EcoTrack — Environmental Monitoring Platform
 > **ReactJS · Node.js · MongoDB · TanStack Query · Framer Motion · TailwindCSS**
 
 A sustainability-focused MERN platform turning raw emission and waste data into actionable environmental insights.
 
-- 🧮 Interactive carbon footprint calculator with React controlled components
-- ♻️ Waste logging & categorization system with MongoDB flexible schema
-- 📈 Real-time analytics dashboard with TanStack Query live data polling
+- Interactive carbon footprint calculator with React controlled components
+- Waste logging & categorization system with MongoDB flexible schema
+- Real-time analytics dashboard with TanStack Query live data polling
 
 [![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
 [![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
@@ -131,23 +131,23 @@ A sustainability-focused MERN platform turning raw emission and waste data into 
 
 ---
 
-### 🏥 Doc-Schedule — Healthcare Appointment Platform
+### Doc-Schedule — Healthcare Appointment Platform
 > **Next.js 15 · React 19 · TailwindCSS v4 · MongoDB · NextAuth · Stripe · Google Calendar API · GSAP**
 
-> 👥 **Team Project** — AlphaSix | Programming Hero Endgame Internship | 5-person team
+> **Team Project** — AlphaSix | Programming Hero Endgame Internship | 5-person team
 
 A full-stack healthcare management platform streamlining the doctor-patient experience with intelligent automation.
 
-- 📅 Intelligent slot generation with Google Calendar API real-time sync
-- 💳 Stripe-powered secure payment gateway with automated email reminders
-- 👥 Multi-role dashboards for Doctors, Patients & Admins with NextAuth
+- Intelligent slot generation with Google Calendar API real-time sync
+- Stripe-powered secure payment gateway with automated email reminders
+- Multi-role dashboards for Doctors, Patients & Admins with NextAuth
 
 [![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
 [![Repo](https://img.shields.io/badge/Team-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabilnir&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
@@ -168,7 +168,7 @@ A full-stack healthcare management platform streamlining the doctor-patient expe
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -177,7 +177,7 @@ A full-stack healthcare management platform streamlining the doctor-patient expe
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nabil-mahmud-6b35033a2/" target="_blank">
