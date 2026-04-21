@@ -1,4 +1,6 @@
-![Nabil Mahmud](/banner(1).svg)
+<p align="center">
+  <img src="./banner.svg" alt="Nabil Mahmud" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=React+%26+Next.js+Frontend+Developer;Building+Scalable+MERN+Applications;TypeScript+%7C+TailwindCSS+%7C+TanStack+Query;Open+to+Remote+Frontend+Roles" alt="Typing SVG" />
