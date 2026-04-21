@@ -8,7 +8,7 @@
   <a href="https://komarev.com/ghpvc/?username=nabilnir">
     <img src="https://komarev.com/ghpvc/?username=nabilnir&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/nabil-mahmud-6b35033a2/">
+  <a href="https://www.linkedin.com/in/nabilnir/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:nirarhan@gmail.com">
@@ -113,9 +113,9 @@ A production-grade B2B marketplace connecting packaging brands with manufacturer
 - Real-time admin dashboard using Next.js Server Components
 - Persistent cart & wishlist with type-safe React Context state management
 
-[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
-[![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
-[![Server](https://img.shields.io/badge/Server-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://pick-packaging.vercel.app/)
+[![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](https://github.com/nabilnir/pick-packaging))
+[![Server](https://img.shields.io/badge/Server-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](https://github.com/nabilnir/pick-packaging))
 
 ---
 
@@ -128,9 +128,9 @@ A MERN-based civic platform bridging citizens and local authorities for transpar
 - Community-driven upvote system using MongoDB document-level validation
 - Modular role-based access control with JWT authentication
 
-[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
-[![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
-[![Server](https://img.shields.io/badge/Server-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)]([https://your-live-link.com](https://civix-auth-system.web.app/)++)
+[![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](https://github.com/nabilnir/civix-frontend))
+[![Server](https://img.shields.io/badge/Server-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](https://github.com/nabilnir/civix-backtend))
 
 ---
 
@@ -143,9 +143,9 @@ A sustainability-focused MERN platform turning raw emission and waste data into 
 - Waste logging & categorization system with MongoDB flexible schema
 - Real-time analytics dashboard with TanStack Query live data polling
 
-[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
-[![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
-[![Server](https://img.shields.io/badge/Server-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)]([https://your-live-link.com](https://eco-track-client-site.web.app/))
+[![Client](https://img.shields.io/badge/Client-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](http://github.com/nabilnir/Eco-Track-Client))
+[![Server](https://img.shields.io/badge/Server-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](http://github.com/nabilnir/Eco-Track-Server))
 
 ---
 
@@ -160,8 +160,8 @@ A full-stack healthcare management platform streamlining the doctor-patient expe
 - Stripe-powered secure payment gateway with automated email reminders
 - Multi-role dashboards for Doctors, Patients & Admins with NextAuth
 
-[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://your-live-link.com)
-[![Repo](https://img.shields.io/badge/Team-Repo-181717?style=flat-square&logo=github)](https://github.com/nabilnir)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)]([https://your-live-link.com](https://doc-schedule.vercel.app/))
+[![Repo](https://img.shields.io/badge/Team-Repo-181717?style=flat-square&logo=github)]([https://github.com/nabilnir](https://github.com/nabilnir/Doc-Schedule))
 
 ---
 
@@ -198,7 +198,7 @@ A full-stack healthcare management platform streamlining the doctor-patient expe
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nabil-mahmud-6b35033a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/nabilnir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Nabil_Mahmud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nirarhan@gmail.com" target="_blank">
@@ -207,16 +207,11 @@ A full-stack healthcare management platform streamlining the doctor-patient expe
   <a href="https://x.com/NabilNir" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@NabilNir-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://nabilnir.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
