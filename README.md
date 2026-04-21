@@ -18,6 +18,8 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
+
+
 ---
 
 ## 👨‍💻 About Me
@@ -31,6 +33,22 @@ I work with **Next.js App Router, TypeScript, TailwindCSS, TanStack Query, Node.
 - Recently collaborated on **Doc-Schedule** — a healthcare SaaS platform with a 5-person team
 - Open to **remote frontend or full-stack roles**
 - Reach me at **nirarhan@gmail.com**
+
+---
+
+## Currently Working On
+
+- I'm exploring **Next.js** for advanced full-stack development and optimizing performance.
+- I'm working on my project PickPacking a **B2B Marketplace** with MERN stack and real-time features.
+- I'm learning **ML fundamentals** through Python and exploring AI/ML research projects.
+- I'm contributing to **open-source** projects and collaborating with developers.
+
+---
+
+## My Focus Areas
+- Web Development
+- AI / ML Research
+- Open Source Contribution
 
 ---
 
